@@ -80,3 +80,7 @@ def replace_str(s, old, new):
             result += s[i]
             i += 1
     return result
+   
+test_string = input("Enter a string to test: ")
+    print(f"Is alphabetic: {is_alpha(test_string)}")
+    print(f"Is numeric: {is_digit(test_string)}")
