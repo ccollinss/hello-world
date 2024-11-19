@@ -16,4 +16,5 @@ For this project, I implemented the Python library with various functions.
   - replace_chr(s, old, new): Replaces all occurrences of one character with another in a string or returns an empty string for an invalid input.
   - replace_str(s, old, new): Replaces all occurrences of one substring with another or inserts NEW between and around characters if OLD is empty.
 
-## Sample Output:
+## Sample Output
+(https://github.com/user-attachments/assets/4e1c39d3-a2b8-42ac-b30d-d431a879a20a)
