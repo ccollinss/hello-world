@@ -17,4 +17,4 @@ For this project, I implemented the Python library with various functions.
   - replace_str(s, old, new): Replaces all occurrences of one substring with another or inserts NEW between and around characters if OLD is empty.
 
 ## Sample Output
-(https://github.com/user-attachments/assets/4e1c39d3-a2b8-42ac-b30d-d431a879a20a)
+![image](https://github.com/user-attachments/assets/c3f8eecd-b94d-4413-b6b0-e129dbd072de)
